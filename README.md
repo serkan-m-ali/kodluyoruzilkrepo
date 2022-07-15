@@ -16,3 +16,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ![Proje Gorseli](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+
+# Owner
+## Serkan Mehmed Ali
+### [Patika.dev account](https://app.patika.dev/thewarden)
